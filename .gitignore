@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+*.env
+
+# Database files
+*.db
+
+# Archives
+*.zip
+*.tar.gz
+*.egg-info/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

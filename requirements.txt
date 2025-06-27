@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+accelerate
+bitsandbytes
+langchain
+langchain-community
+ibm-watson-machine-learning
