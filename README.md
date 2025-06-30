@@ -81,6 +81,9 @@ This project is released under the [MIT License](https://opensource.org/licenses
 ## 🙋‍♂️ Author
 
 - **Praveen Madem** — [GitHub Profile](https://github.com/Praveen-Kumar-Madem/CitizenAI)
+## 📽️ Demo
+
+Watch the project demo here: [Demo Video](https://drive.google.com/file/d/18F0uRFsjgWcFxO26THv8FEEI2lDfcBP5/view?usp=sharing)
 
 ---
 
